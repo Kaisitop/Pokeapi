@@ -63,3 +63,8 @@ App disponible en: http://localhost:5173/
 ## 👨‍💻 Autor
 
 Desarrollado por Julio Andino como prueba técnica.
+
+
+![image](https://github.com/user-attachments/assets/5ec4f1c7-a59b-4760-beb1-e6eaed653b87)
+![image](https://github.com/user-attachments/assets/4eb2a03a-6678-4501-9281-2e6b44367294)
+
