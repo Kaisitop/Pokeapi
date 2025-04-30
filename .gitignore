@@ -1,0 +1,9 @@
+# ⛔ Ignorar entorno virtual de Python
+venv/
+*.pyc
+__pycache__/
+
+# ⛔ Ignorar node_modules del frontend
+frontend/node_modules/
+frontend/dist/
+
